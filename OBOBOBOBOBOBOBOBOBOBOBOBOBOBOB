@@ -1,0 +1,47 @@
+[33mcommit ada17e15073966c10358954d903d2679a27a3896[m
+Author: lawlerblader <jacob@hamblin.cc>
+Date:   Mon Feb 9 21:15:56 2015 +0000
+
+    finish log in/log out
+
+[33mcommit 2362ed3177ae3af4d09dc0855792b4524534ddce[m
+Author: lawlerblader <jacob@hamblin.cc>
+Date:   Mon Feb 9 20:28:21 2015 +0000
+
+    use ssl and unicorn in production
+
+[33mcommit 6e611b38b45d9042cd52e1c003273b94f92ce24f[m
+Author: lawlerblader <jacob@hamblin.cc>
+Date:   Mon Feb 9 20:21:49 2015 +0000
+
+    finish user signup
+
+[33mcommit af86c082dcbc3a1b7e44d827bfeffbdd4a517ee3[m
+Author: lawlerblader <jacob@hamblin.cc>
+Date:   Mon Feb 9 19:21:27 2015 +0000
+
+    added rails.png
+
+[33mcommit 00c4f98beb1aa106c65671a03ba7006a33202ff8[m
+Author: Jacob Hamblin <jacob@hamblin.cc>
+Date:   Mon Feb 9 18:19:45 2015 +0000
+
+    Make a basic User model (including secure passwords)
+
+[33mcommit 36a7d4ee4e4e876628c6eee4f7d10ca2d773d541[m
+Author: Jacob Hamblin <jacob@hamblin.cc>
+Date:   Mon Feb 9 17:40:54 2015 +0000
+
+    finish layout and routes
+
+[33mcommit e3eadf5d3148166a8ede1a82026691f37604b5b2[m
+Author: Jacob Hamblin <jacob@hamblin.cc>
+Date:   Mon Feb 9 17:17:17 2015 +0000
+
+    finish static pages
+
+[33mcommit 09ab111b5abde064c412407041d321aed3f9dec0[m
+Author: Jacob Hamblin <jacob@hamblin.cc>
+Date:   Mon Feb 9 17:02:18 2015 +0000
+
+    Initialize repository
